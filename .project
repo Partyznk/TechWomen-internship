@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>comparing_integers</name>
+=======
+	<name>integers</name>
+>>>>>>> af572503b7b1319c8fee7c743f8236122c284f17
 	<comment></comment>
 	<projects>
 	</projects>
