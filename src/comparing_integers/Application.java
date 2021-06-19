@@ -1,4 +1,4 @@
-package comparing_integers;
+package comparing_integers;		// Write an application that reads five integers and determines and prints the largest and smallest integers in the group.
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Application {
 	public static void main(String[] args) {
 		int n1, n2, n3, n4, n5, big = 0, small = 0;
 		Scanner input = new Scanner(System.in);
-		System.out.print("Enter new integer: ");		//Citirea numerelor
+		System.out.print("Enter new integer: ");		// Citirea numerelor
 		n1 = input.nextInt();
 		System.out.print("Enter new integer: ");
 		n2 = input.nextInt();
@@ -17,7 +17,7 @@ public class Application {
 		System.out.print("Enter new integer: ");
 		n5 = input.nextInt();
 		
-		if (n1 >= n2) {			//Compararea numerelor
+		if (n1 >= n2) {			// Compararea numerelor
 			big = n1;
 			small = n2;
 		}
@@ -46,7 +46,7 @@ public class Application {
 		if (n5 <= small) {
 			small = n5;
 		}
-												//Afisarea celui mai mic si celui mai mare numar
+												// Afisarea celui mai mic si celui mai mare numar
 		System.out.printf("%d is the smallest nr. and %d is the biggest nr.", small, big);
 	}
 }
