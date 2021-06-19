@@ -1,0 +1,2 @@
+module separating_integer {
+}
