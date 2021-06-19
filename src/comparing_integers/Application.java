@@ -1,4 +1,5 @@
-package comparing_integers;		// Write an application that reads five integers and determines and prints the largest and smallest integers in the group.
+package comparing_integers;		// Write an application that reads five integers and determines 
+					// and prints the largest and smallest integers in the group.
 
 import java.util.Scanner;
 
