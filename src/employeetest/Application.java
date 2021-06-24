@@ -32,7 +32,7 @@ class Employee {
 	public String getFirstName() {			// Getters for all variables
 		return this.first_name;
 	}
-	
+	 
 	public String getLastName() {
 		return this.last_name;
 	}
