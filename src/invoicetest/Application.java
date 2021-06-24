@@ -68,7 +68,7 @@ public class Application {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		Invoice invoice = new Invoice("12345", "Fluffy cat ears", 3, 5);		// Declaring the variable + constructor
-		invoice.getInvoice();													// Printing the invoice details
+		invoice.getInvoice();								// Printing the invoice details
 		System.out.println("Please type below the changes you would like to make");
 		
 		System.out.print("New invoice number: ");		// Setting new invoice details
