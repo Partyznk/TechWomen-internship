@@ -35,4 +35,4 @@ public class Application {
 			System.out.println("\nERROR: NO TRIPS WERE ENTERED");						// If no trips are entered initially
 		}
 	}
-}
+} 
