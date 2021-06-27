@@ -1,0 +1,2 @@
+module bar_charts {
+}
