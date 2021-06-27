@@ -18,7 +18,7 @@ class Asterisk {						// Class used for printing the charts
 
 public class Application {
 	public static void main(String[] args) {
-		int number, i = 1; String drawing = "";		// Declaring the variables
+		int number, i = 1; String drawing = "\n";		// Declaring the variables
 		Scanner input = new Scanner(System.in);
 		Asterisk asterisk = new Asterisk();
 		
