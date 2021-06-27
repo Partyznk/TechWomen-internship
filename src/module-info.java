@@ -1,0 +1,2 @@
+module compound_interest {
+}
