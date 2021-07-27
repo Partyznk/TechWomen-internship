@@ -33,7 +33,7 @@ public class Application {
 				if (coin == COIN.TAILS) {
 					++tails_counter;
 				}
-				System.out.println("Type 'TOSS COIN' to toss a coin");
+				System.out.println("\nType 'TOSS COIN' to toss a coin");
 				command = input.nextLine();
 			}
 		}
