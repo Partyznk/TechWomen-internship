@@ -1,0 +1,2 @@
+module coin_tossing {
+}
