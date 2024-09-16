@@ -1,0 +1,2 @@
+module pythagorean_triples {
+}
